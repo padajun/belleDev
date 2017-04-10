@@ -5,4 +5,5 @@ Created on 2017. 4. 11.
 '''
 
 if __name__ == '__main__':
-    pass
+    print('hello world')
+    print('안녕')
